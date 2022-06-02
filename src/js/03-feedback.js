@@ -27,6 +27,9 @@ function firstPageLoading() {
   if (parseValue) {
     input.value = parseValue.email;
     textarea.value = parseValue.message;
+  } else {
+    input.value = '';
+    textarea.value = '';
   }
 }
 

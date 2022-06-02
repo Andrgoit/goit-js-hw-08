@@ -65,7 +65,7 @@
 91D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@parcel\utils\src\prettyDiagnostic.js121436361000000000 0
 50D:\Documents\GoIt\Projects\goit-js-hw-08\.parcelrc132982926684077358 0
 83D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\posthtml-include\lib\index.js121436361000000000 0
-62D:\Documents\GoIt\Projects\goit-js-hw-08\src\js\03-feedback.js132985753731966174 0
+62D:\Documents\GoIt\Projects\goit-js-hw-08\src\js\03-feedback.js132986138214317184 0
 82D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\css-tree\lib\parser\index.js121436361000000000 0
 48D:\Documents\GoIt\Projects\goit-js-hw-08\.sassrc132982926684605957 0
 85D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CU.js121436361000000000 0
@@ -85,7 +85,7 @@
 103D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-backdrop-filter.js121436361000000000 0
 95D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.scandir\out\providers\sync.js121436361000000000 0
 85D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\lmdb\dependencies\lz4\lib\lz4.c121436361000000000 0
-45D:\Documents\GoIt\Projects\goit-js-hw-08\dist132985753732905645 1
+45D:\Documents\GoIt\Projects\goit-js-hw-08\dist132986138392618629 1
 53D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules132984983636885882 1
 78D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\htmlnano\lib\htmlnano.js121436361000000000 0
 105D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1121436361000000000 0
@@ -4767,8 +4767,8 @@
 72D:\Documents\GoIt\Projects\goit-js-hw-08\dist\01-gallery.53390864.js.map132985645834619044 0
 70D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.a74b541c.js.map132985645834609065 0
 59D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.html132985645834424818 0
-69D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js132985753732885696 0
-73D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map132985753732895666 0
+69D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js132986138392568765 0
+73D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map132986138392608654 0
 74D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map132985645834669188 0
 62D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.html132985751654784077 0
 71D:\Documents\GoIt\Projects\goit-js-hw-08\dist\goit-js-hw-08.59712999.js132985645834424818 0
