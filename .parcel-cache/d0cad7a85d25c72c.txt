@@ -85,7 +85,7 @@
 103D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-backdrop-filter.js121436361000000000 0
 95D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.scandir\out\providers\sync.js121436361000000000 0
 85D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\lmdb\dependencies\lz4\lib\lz4.c121436361000000000 0
-45D:\Documents\GoIt\Projects\goit-js-hw-08\dist132986138392618629 1
+45D:\Documents\GoIt\Projects\goit-js-hw-08\dist132986411049070618 1
 53D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules132984983636885882 1
 78D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\htmlnano\lib\htmlnano.js121436361000000000 0
 105D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1121436361000000000 0
@@ -175,7 +175,7 @@
 91D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@parcel\utils\test\collection.test.js121436361000000000 0
 89D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\yaml\browser\dist\legacy-exports.js121436361000000000 0
 90D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\css-tree\lib\syntax\scope\default.js121436361000000000 0
-59D:\Documents\GoIt\Projects\goit-js-hw-08\src\js\02-video.js132984987796504805 0
+59D:\Documents\GoIt\Projects\goit-js-hw-08\src\js\02-video.js132986410711926276 0
 103D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyConditionalComments.js121436361000000000 0
 61D:\Documents\GoIt\Projects\goit-js-hw-08\src\js\01-gallery.js132983329230548379 0
 78D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\timsort\build\timsort.js131138624790000000 0
@@ -4662,7 +4662,7 @@
 74D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.stat\out132982939391325087 1
 80D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.stat\README.md121436361000000000 0
 85D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.stat\out\index.d.ts121436361000000000 0
-66D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.a74b541c.js132985645834519314 0
+66D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.a74b541c.js132986411049010779 0
 88D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.stat\out\settings.d.ts121436361000000000 0
 86D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.stat\out\settings.js121436361000000000 0
 91D:\Documents\GoIt\Projects\goit-js-hw-08\node_modules\@nodelib\fs.stat\out\types\index.d.ts121436361000000000 0
@@ -4765,7 +4765,7 @@
 73D:\Documents\GoIt\Projects\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map132985645834669188 0
 68D:\Documents\GoIt\Projects\goit-js-hw-08\dist\01-gallery.53390864.js132985645834529282 0
 72D:\Documents\GoIt\Projects\goit-js-hw-08\dist\01-gallery.53390864.js.map132985645834619044 0
-70D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.a74b541c.js.map132985645834609065 0
+70D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.a74b541c.js.map132986411049060637 0
 59D:\Documents\GoIt\Projects\goit-js-hw-08\dist\02-video.html132985645834424818 0
 69D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js132986138392568765 0
 73D:\Documents\GoIt\Projects\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map132986138392608654 0
